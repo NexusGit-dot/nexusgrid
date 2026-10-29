@@ -60,4 +60,4 @@ jobs:
           python-version: "3.10"
 
       - name: Validate addon structure
-        run: python scripts/check_addon_structure.py addons/nexus_hello
+        run: python scripts/check_addon_structure.py addons
